@@ -14,3 +14,17 @@
 * Демонстрация разлёта осколков ручных гранат.
 
 ## Скриншоты
+<img width="1920" height="1080" alt="Настройка параметров броска гранаты" src="https://github.com/user-attachments/assets/33c15a25-19bf-4638-828d-a27c3d05a1c0" />
+<p align="center">Настройка параметров броска гранаты</p>
+<img width="1920" height="1080" alt="Разброс осколков" src="https://github.com/user-attachments/assets/5a015f9d-d9a3-477c-8924-ea064384574f" />
+<p align="center">Разброс осколков</p>
+<img width="1920" height="1080" alt="Зоны поражения гранаты" src="https://github.com/user-attachments/assets/736595b5-2fa6-4691-9082-09f5392145dd" />
+<p align="center">Зоны поражения гранаты</p>
+<img width="1920" height="1080" alt="Бросок гранаты из положения стоя" src="https://github.com/user-attachments/assets/269dcb5c-0a2b-4502-8db8-87266d8e5ac9" />
+<p align="center">Бросок гранаты из положения стоя</p>
+<img width="1920" height="1080" alt="Бросок гранаты из положения сидя" src="https://github.com/user-attachments/assets/480a62b9-cf9a-41bd-9e54-8b27b9841ef6" />
+<p align="center">Бросок гранаты из положения сидя</p>
+<img width="1920" height="1080" alt="Бросок гранаты из положения лёжа" src="https://github.com/user-attachments/assets/1ea63c57-b49b-44de-8ca5-ef47cfe9adbc" />
+<p align="center">Бросок гранаты из положения лёжа</p>
+<img width="1920" height="1080" alt="Демонстрация работы запала РГД-5" src="https://github.com/user-attachments/assets/ccec4c2a-5261-4a4d-bf1a-f6a13273319c" />
+<p align="center">Демонстрация работы запала РГД-5</p>

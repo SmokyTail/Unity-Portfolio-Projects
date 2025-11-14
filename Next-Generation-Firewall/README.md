@@ -26,6 +26,9 @@
   * переход между вкладками;
 * Симуляция работы операционной системы, для обеспечения работы с МЭ.
 
+## Видео
+[![Смотреть видео](https://github.com/user-attachments/assets/8546d8db-42ec-496e-8e1e-eb1cb5e5bcc8)](https://rutube.ru/video/da8495db583ea11018a5bd39c9607228)
+
 ## Скриншоты
 <img width="1920" height="1080" alt="Общий план" src="https://github.com/user-attachments/assets/e8c44c46-022b-412a-9b75-a64543d451ce" />
 <p align="center">Общий план</p>

@@ -14,3 +14,11 @@
 * Возможность отрисовки карты помещения и улучшение работы алгоритма.
 
 ## Скриншоты
+<img width="1920" height="1080" alt="1  Работа алгоритма Флойда-Уоршелла" src="https://github.com/user-attachments/assets/b39acf60-41ae-45a1-9820-a7c4f66007b1" />
+<p align="center">Работа алгоритма Флойда-Уоршелла</p>
+<img width="1920" height="1080" alt="2  Работа алгоритма поиска в ширину " src="https://github.com/user-attachments/assets/fa08a548-0f48-493e-b6ea-e58b92aa0608" />
+<p align="center">Работа алгоритма поиска в ширину</p>
+<img width="1920" height="1080" alt="3  Раздел Навигатор – настройка свойств дороги" src="https://github.com/user-attachments/assets/c160da9f-2cd5-49a4-b214-b4f1eccac05b" />
+<p align="center">Раздел Навигатор</p>
+<img width="1920" height="1080" alt="7  Теоретический раздел 3" src="https://github.com/user-attachments/assets/04785e0b-ca27-466d-a2d1-746c399655af" />
+<p align="center">Теоретический раздел</p>

@@ -19,3 +19,17 @@
 * Симуляция реагирования антивирусного ПО на обнаруженное вредоносное ПО.
 
 ## Скриншоты
+<img width="1920" height="1080" alt="1  Выбор модулей защиты антивирусного ПО" src="https://github.com/user-attachments/assets/cad61391-29d6-4536-938d-6b7bfb48d5a5" />
+<p align="center">Выбор модулей защиты антивирусного ПО</p>
+<img width="1920" height="1080" alt="2  Виртуальное рабочее место пользователя" src="https://github.com/user-attachments/assets/feaedbf7-7026-4c1c-872d-7a196d2bf8a5" />
+<p align="center">Виртуальное рабочее место пользователя</p>
+<img width="1920" height="1080" alt="3  Работа операционной системы" src="https://github.com/user-attachments/assets/f77aec19-27c6-452c-abd4-df9e409bb764" />
+<p align="center">Работа операционной системы</p>
+<img width="1920" height="1080" alt="4  Сценарий Драйвер" src="https://github.com/user-attachments/assets/4ad7cddf-2f41-4277-b56b-1e86b41c7077" />
+<p align="center">Сценарий Драйвер</p>
+<img width="1920" height="1080" alt="5  Сценарий Баннер-ловушка" src="https://github.com/user-attachments/assets/554ce558-e450-4901-824e-d6557cb093cf" />
+<p align="center">Сценарий Баннер-ловушка</p>
+<img width="1920" height="1080" alt="6  Окно завершения сценария" src="https://github.com/user-attachments/assets/122ab086-905d-4833-956b-8a508c3e3e09" />
+<p align="center">Окно завершения сценария</p>
+<img width="1920" height="1080" alt="7  Окно завершения задания" src="https://github.com/user-attachments/assets/06d86752-cbf4-405d-9a2e-2e201ca8dfd8" />
+<p align="center">Окно завершения задания</p>

@@ -12,3 +12,9 @@
 * Демонстрация сбора и разбора электродвигателя.
 
 ## Скриншоты
+<img width="1920" height="1080" alt="Электродвигатель в разрезе" src="https://github.com/user-attachments/assets/cfc51ad1-ef82-48ab-ba31-6bb04443e008" />
+<p align="center">Электродвигатель в разрезе</p>
+<img width="1920" height="1080" alt="Описание деталей" src="https://github.com/user-attachments/assets/69f0e70e-b73e-4902-abeb-8571496e5d10" />
+<p align="center">Описание деталей</p>
+<img width="1920" height="1080" alt="Извлечение ротора" src="https://github.com/user-attachments/assets/fb818db9-fb3a-4992-9676-b432e8c4ac93" />
+<p align="center">Извлечение ротора</p>

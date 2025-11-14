@@ -51,6 +51,9 @@
   * перемежение символов;
   * типы помех.
 
+## Видео
+[![Смотреть видео](https://github.com/user-attachments/assets/cfaea3b5-4309-442d-a0df-b3f2b0bd1f3c)](https://rutube.ru/video/60543e2597bc7dd7dff1db3bcc753300)
+
 ## Скриншоты
 <img width="1920" height="1080" alt="Коды CRC" src="https://github.com/user-attachments/assets/2363b969-64a0-4e67-8f8b-f725f4857dac" />
 <p align="center">Коды CRC</p>

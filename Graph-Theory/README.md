@@ -13,6 +13,9 @@
 * Набор задач по расчету путей на основе определенных алгоритмов.
 * Возможность отрисовки карты помещения и улучшение работы алгоритма.
 
+## Видео
+[![Смотреть видео](https://github.com/user-attachments/assets/9de7679f-ac70-4324-8d12-741eef98b336)](https://rutube.ru/video/aa3297aefda16bb4a90a8ef78092d943)
+
 ## Скриншоты
 <img width="1920" height="1080" alt="1  Работа алгоритма Флойда-Уоршелла" src="https://github.com/user-attachments/assets/b39acf60-41ae-45a1-9820-a7c4f66007b1" />
 <p align="center">Работа алгоритма Флойда-Уоршелла</p>
